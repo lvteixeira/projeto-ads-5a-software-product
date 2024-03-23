@@ -4,7 +4,7 @@ Código Fonte APP => https://github.com/lvteixeira/sp-blog-app
 Código Fonte API => https://github.com/lvteixeira/sp-blog-api
 
 # Blog Application
-Projeto de prototipagem escrito para o desafio técnico de desenvolvimento de software da Tokio Marine. Consiste em aplicação web que possibilite o usuário agendar uma transação bancária vide regra de negócio.
+Projeto de prototipagem escrito para a disciplina de Software Product. Consiste em aplicação web de blog que possibilite o usuário criar, editar, excluir e curtir postagens.
 
 # Decisões Arquiteturais
 O planejamento do projeto teve foco na entrega dos requisitos funcionais explicitados no requisito visando entregar um protótipo de qualidade, com eficiência e no menor tempo possível.
